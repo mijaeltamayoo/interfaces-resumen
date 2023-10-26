@@ -1,0 +1,7 @@
+.tabla {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* Define 3 columnas con igual ancho */
+    grid-gap: 10px;
+
+}
+
